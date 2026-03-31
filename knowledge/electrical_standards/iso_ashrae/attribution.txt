@@ -1,7 +1,0 @@
-Title: ISO and ASHRAE Standards (ISO 50001, ASHRAE 90.1, 55, etc.)
-Source: International Organization for Standardization (ISO) and ASHRAE
-Link: https://www.iso.org / https://www.ashrae.org
-Description: Energy management systems and advanced energy design guides for buildings.
-License: Used only for internal synthetic data generation and model fine-tuning purposes.
-Contributor: Sivani
-Date: March 2026
