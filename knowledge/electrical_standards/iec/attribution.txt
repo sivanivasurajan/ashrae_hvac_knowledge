@@ -1,0 +1,7 @@
+Title: IEC Electrical Standards (IEC 62196, IEC 60364, IEC 61851 series)
+Source: International Electrotechnical Commission (IEC) official standards
+Link: https://webstore.iec.ch/
+Description: Technical documentation on electric vehicle conductive charging systems, low-voltage electrical installations and related standards.
+License: Used only for internal synthetic data generation and model fine-tuning purposes.
+Contributor: Sivani
+Date: March 2026

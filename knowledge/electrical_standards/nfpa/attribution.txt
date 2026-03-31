@@ -1,0 +1,7 @@
+Title: NFPA Electrical and Fire Safety Standards (NFPA 70, 70E, 72, 75, 99, 101, etc.)
+Source: National Fire Protection Association (NFPA) standards
+Link: https://www.nfpa.org/codes-and-standards
+Description: Standards for National Electrical Code, electrical safety, fire protection and life safety.
+License: Used only for internal synthetic data generation and model fine-tuning purposes.
+Contributor: Sivani
+Date: March 2026

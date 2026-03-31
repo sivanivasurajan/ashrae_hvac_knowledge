@@ -1,0 +1,102 @@
+version: 2
+task_description: >
+  Answer technical questions about NFPA standards for electrical safety,
+  National Electrical Code (NEC), workplace electrical safety, fire alarm systems,
+  and life safety in buildings and installations.
+created_by: sivani
+domain: electrical_standards
+seed_examples:
+  - context: >
+      NFPA 70, commonly known as the National Electrical Code (NEC), is the
+      benchmark standard for the safe design, installation, and inspection of
+      electrical wiring and equipment. It is enforced in all 50 U.S. states and
+      updated every three years to protect people and property from electrical hazards.
+    questions_and_answers:
+      - question: What is NFPA 70 commonly known as?
+        answer: >
+          NFPA 70 is commonly known as the National Electrical Code (NEC).
+      - question: What is the primary purpose of NFPA 70 (NEC)?
+        answer: >
+          The primary purpose is to provide minimum requirements for safe
+          electrical design, installation, and inspection to protect people
+          and property from electrical hazards.
+      - question: How often is the NEC (NFPA 70) typically updated?
+        answer: >
+          The NEC is updated and published every three years.
+
+  - context: >
+      NFPA 70E provides requirements for electrical safety in the workplace.
+      It focuses on safe work practices, risk assessment, arc flash hazard
+      analysis, and selection of personal protective equipment (PPE) to protect
+      employees from shock, electrocution, arc flash, and arc blast.
+    questions_and_answers:
+      - question: What is the main purpose of NFPA 70E?
+        answer: >
+          NFPA 70E establishes requirements for electrical safety in the
+          workplace to protect personnel from electrical hazards such as
+          shock, electrocution, arc flash, and arc blast.
+      - question: What key hazard does NFPA 70E specifically address through risk assessment?
+        answer: >
+          NFPA 70E addresses arc flash hazards and requires employers to
+          perform an arc flash risk assessment.
+      - question: Why is deenergizing equipment recommended before working on it?
+        answer: >
+          Deenergizing equipment is the best way to protect workers from
+          arc flash and other electrical hazards according to NFPA 70E.
+
+  - context: >
+      NFPA 72 is the National Fire Alarm and Signaling Code. It covers the
+      application, installation, performance, inspection, testing, and
+      maintenance of fire alarm systems, supervising station alarm systems,
+      and emergency communications systems.
+    questions_and_answers:
+      - question: What does NFPA 72 primarily cover?
+        answer: >
+          NFPA 72 covers the design, installation, testing, and maintenance
+          of fire alarm systems and emergency communication systems.
+      - question: Why is regular testing and inspection required under NFPA 72?
+        answer: >
+          Regular testing and inspection ensure that fire alarm systems
+          function properly and provide reliable early warning for life safety.
+      - question: What additional systems beyond basic fire alarms does NFPA 72 address?
+        answer: >
+          NFPA 72 also addresses mass notification systems used for weather
+          emergencies, terrorist events, and other threats.
+
+  - context: >
+      NFPA 70E requires employers to conduct an electrical hazard risk
+      assessment that includes shock and arc flash risk. It defines approach
+      boundaries (limited, restricted, and arc flash boundary) and specifies
+      appropriate PPE categories based on incident energy levels.
+    questions_and_answers:
+      - question: What are the three main approach boundaries defined in NFPA 70E?
+        answer: >
+          The three main boundaries are the Limited Approach Boundary,
+          Restricted Approach Boundary, and Arc Flash Boundary.
+      - question: What does the Arc Flash Boundary represent?
+        answer: >
+          The Arc Flash Boundary is the distance from an exposed energized
+          conductor where a person could receive a second-degree burn from
+          an arc flash incident.
+
+  - context: >
+      NFPA standards such as NFPA 70 (NEC) focus on safe installation of
+      electrical systems, while NFPA 70E focuses on safe work practices around
+      energized equipment. Together they form essential guidelines for both
+      design/installation and maintenance/workplace safety.
+    questions_and_answers:
+      - question: What is the main difference between NFPA 70 (NEC) and NFPA 70E?
+        answer: >
+          NFPA 70 (NEC) is an installation code for safe design and wiring,
+          while NFPA 70E is a workplace safety standard for safe work practices
+          around electrical equipment.
+      - question: Who should primarily follow NFPA 70E?
+        answer: >
+          Facility managers, safety officers, qualified electrical workers,
+          and employers should follow NFPA 70E for workplace electrical safety.
+
+# document:
+#   repo: https://github.com/YOUR_USERNAME/YOUR_REPO.git
+#   commit: YOUR_COMMIT_SHA_HERE
+#   patterns:
+#     - "*.md"
